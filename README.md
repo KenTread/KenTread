@@ -9,7 +9,7 @@ I like working close to the metal: reading schematics, helping wire and debug in
 ### What I Work With
 * **Languages:** C, Python, Java, some C++, reading x86 assembly
 * **Scripting:** Basic Bash and PowerShell
-* **Systems:** Linux, Git
+* **Systems:** Linux, Git, Windows, Raspberry Pi, Arduino, ESP32
 * **Networking:** Cisco routing and switching fundamentals (certified in 2016, since lapsed)
 * **Hardware & Industrial:** Electrical schematics, control panel wiring, Epson SCARA robots, CNC and laser control systems
 * **Debugging:** Supporting PLC and control-system troubleshooting, including Beckhoff systems
