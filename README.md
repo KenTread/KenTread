@@ -24,7 +24,7 @@ I like working close to the metal: reading schematics, helping wire and debug in
 ---
 
 ### Looking to Collaborate On
-* Embedded systems, firmware reverse-engineering, VSLI, AI/SI, and hardware-in-the-loop projects
+* Embedded systems, firmware reverse-engineering, VLSI, AI/ML, and hardware-in-the-loop projects
 * Porting legacy industrial or scientific equipment to modern open-source stacks
 * A summer 2027 engineering research internship in Europe
 
